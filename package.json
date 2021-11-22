@@ -1,0 +1,14 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "Football manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhantemir,Nazerke,Amire,Adlet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
